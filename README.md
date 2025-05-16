@@ -1,2 +1,13 @@
-#Details
-Implemented a 1-bit adder, 
+# 📦 Description
+
+1-bit adder, 
+
+---
+
+## 📑 Table of Contents
+
+
+
+---
+
+
