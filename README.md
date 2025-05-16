@@ -1,13 +1,9 @@
-# 📦 Description
+## Description
 
-1-bit adder, 
-
----
-
-## 📑 Table of Contents
-
-
+Implemented these 3 circuits using Digital.exe 
 
 ---
+
+
 
 
