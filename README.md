@@ -1,4 +1,4 @@
-## Assignment 1-memory components
+## Assignment 1: memory components
 
 Implemented these 3 circuits using Digital.exe 
 
